@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans&family=Climate+Crisis&family=Courgette&family=Fredericka+the+Great&family=Fuzzy+Bubbles:wght@700&family=Golos+Text&family=Indie+Flower&family=Kalam:wght@300;400&family=Klee+One:wght@600&family=Lobster&family=Montserrat&family=Open+Sans&family=Poppins:wght@300;400&family=Prompt:wght@300&family=Roboto:ital@1&family=Satisfy&family=Signika+Negative&family=Ubuntu:wght@300&display=swap');
+
+
+.my-hover:hover{
+    background: orangered;
+ }
+ 
+ .my-img{
+     position: absolute;
+     left: 145px;
+     top: 0px;
+     height: 200px;
+     width: 90.55vw;
+ }
+ 
+ 
+ .my-dynamic-box{
+     position: absolute;
+     left: 145px;
+     top: 200px;
+     /* background: linear-gradient(to bottom right, black, white); */
+     background: linear-gradient(to bottom right, grey, rgb(233, 233, 233));
+     
+     width: 90.55vw;
+     height: 72.7vh;
+     position: absolute;
+
+     
+ }
+ 
+ .my-search-form{
+     text-align: center;
+     margin-top: 25px;
+     height: 30px;
+     /* background-color: black; */
+ }
+ .my-search-bar{
+ 
+     width: 30%;
+     padding: 2px 15px;
+     height: 100%;
+     border: none;
+     border-radius: 10px;
+     font-size: 15px;
+     font-family: 'Open Sans', sans-serif;
+     outline: none;
+     box-shadow: 2px 2px rgb(93, 93, 93);
+ }
+ 
+ .my-srch-button{
+     margin-left: 10px;
+     border-radius: 8px;
+     height: 100%;
+     width: 40px;
+     border: none;
+     font-size: 16px;
+     color: red;
+     font-family: 'Open Sans', sans-serif;
+     transition: all 0.3s;
+     background-color: white;
+     box-shadow: 2px 2px rgb(93, 93, 93);
+ }
+ 
+ .my-srch-button:hover{
+     color: white;
+     background: orangered;
+ }
+ 
+ .searchResult{
+     float: left;
+ }
+ 
+ .my-dynamic-box h2{
+     margin: 20px;
+     text-align: center;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+
+
+
+
+
+ /* Home section  */
+
+ .text-box{
+    padding-right: 10px;
+    width: fit-content;
+    margin: auto;
+    
+ }
+ .my-text{
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Kalam', cursive;
+ }
+
+ .home-head{
+    text-align: center;
+    margin-top: 80px;
+    font-size: 30px;
+    font-family: cursive;
+    color: orangered;
+ }
+
+ 
+ 
+ 
+ 
+ 

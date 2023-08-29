@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans&family=Climate+Crisis&family=Courgette&family=Fredericka+the+Great&family=Fuzzy+Bubbles:wght@700&family=Golos+Text&family=Indie+Flower&family=Kalam:wght@300;400&family=Klee+One:wght@600&family=Lobster&family=Montserrat&family=Open+Sans&family=Poppins:wght@300;400&family=Prompt:wght@300&family=Roboto:ital@1&family=Satisfy&family=Signika+Negative&family=Ubuntu:wght@300&display=swap');
+.my-carousel-img{
+    width: 270px;
+    height: 250px;
+    margin-top: 50px;
+    margin-left: 40%;
+}
+
+
+.my-carousel-caption{
+    margin-top: 175px;
+}
+
+
+.my-fav-btn{
+   background:transparent;
+   border-style: none;
+   color: red;
+}
+
+.list-detail{
+    font-family: 'Ubuntu', sans-serif;
+}
